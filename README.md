@@ -25,6 +25,6 @@ It focuses on calculating the average price for each property type, counting pro
 - Excel / CSV – source data files  
 - Data Modeling – for relationships and calculated metrics  
 
-## Dashboard Screenshot 🖼️
+## Dashboard Screenshot 
 ![Real Estate Deals Dashboard](screenshots/real_estate_dashboard.png)  
 *Note: This screenshot shows the layout and key insights of the dashboard.*
